@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adebowaleselere
-- 👀 I’m interested in UI/UX, Motion graphics, and Coding in MArketing
-- 🌱 I’m currently learning Sass, Animation, and Js
-- 💞️ I’m looking to collaborate on Beautiful marketing campaigns that include websites, social media animations and explainer videos
+- 👀 Love solving MArketing and anaytics problems
+- 🌱 Stack: C
 - 📫 How to reach me: you can email me @ advertisewithdebo@gmail.com
 
 <!---
